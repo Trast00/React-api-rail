@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import Home from './components/Home';
-import Messages from './components/Messages';
+import Home from './Home';
+import Messages from './Messages';
 
 const App = () => (
   <div className="App">

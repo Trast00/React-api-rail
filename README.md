@@ -35,19 +35,6 @@ This is a project build for learning purpose. The goal is to use react redux on 
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://guides.rubyonrails.org/">Ruby on Rails</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 ### Key Features <a name="key-features"></a>
 
